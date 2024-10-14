@@ -1,0 +1,45 @@
+{
+	"closed": "Sorry, but we are not open yet 😴😴😴\nWork schedule:\nMonday-Sunday: 9:30 - 22:00",
+	"start": "Hello!\nWe are glad that you visited us to place an order.\nWe hope we will meet your expectations💘💘💘",
+	"language": {
+		"name": "English 🇬",
+		"selected": "You choose English"
+	},
+	"delivery-options": {
+		"delivery": "Delivery 🚗",
+		"in-place": "In food place 🏬"
+	},
+	"payment-options": {
+		"cash": "Cash 💵",
+		"card": "Card 💳",
+		"in-app": "In app 📱",
+		"currency": "uah"
+	},
+	"order": {
+		"start": "Make order",
+		"menu": "Menu",
+		"add_to_cart": "Add to cart",
+		"remove_from_cart": "Remove from cart",
+		"new_item": "{} is added to cart",
+		"not_in_cart": "{} not in cart",
+		"remove_item": "{} is removed from cart",
+		"items_in_cart": "Items in cart:\n{}\nTotal: {} {}",
+		"checkout": "Place an order"
+	},
+	"checkout": {
+		"delivery": "Select delivery method",
+		"name": "Write down your full name",
+		"ask_phone": "Please, share your phone number",
+		"phone": "Share your phone number",
+		"ask_location": "Please, share your location",
+		"location": "Share your location",
+		"payment": "Select payment method",
+		"finish": "Your order is registered\nWe will let you know when the courier arrives."
+	},
+	"invoice": {
+		"title": "Payment for the orderу",
+		"description": "Payment for an order at the FD cafe",
+		"label": "Food and drinks",
+		"success": "The payment was successful"
+	}
+}
